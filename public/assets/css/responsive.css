@@ -1,0 +1,31 @@
+@media (min-width:576px){
+
+}
+@media (min-width:768px){
+    .sale-info{
+        text-align: start !important;
+    }
+
+    
+}
+@media (min-width:992px){
+    aside{
+        visibility: visible;
+        position: sticky;
+        width: 100%;
+    }
+    .checkout_steps{
+        flex-direction: row;
+    }
+    .checkout_steps_item{
+        border-left: none;
+        border-bottom: 2px solid #9f9d9d ;
+    }
+    .chekout-proceed-container{
+        position: sticky;
+        top: 0;
+    }
+}
+@media (min-width:1200px){
+
+}
